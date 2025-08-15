@@ -30,24 +30,12 @@
 
 | Project | Tech Stack | Live Demo | Repository |
 |---------|------------|-----------|------------|
-| **Smart Home Automation** | ESP32, PIR Sensor, LCD | - | [View Code]( https://github.com/iTushar09/Smart-Home-Project-Motion-Sensor-Relay-and-LCD-Display) |
-| **Telecom Churn Prediction** | Python, XGBoost, Streamlit | [Live Demo]( https://customer-churn-prediction-app-by-tushar-chaudhari.streamlit.app/) | [View Code]( https://github.com/iTushar09/Customers-Churn-Prediction-App.git) |
-| **Easy PDF handling Tools** | Python, Streamlit, PyPDF2 | [Live Demo]( https://easy-pdf-handling-tools-by-tusharchaudhari.streamlit.app/) | [View Code]( https://github.com/iTushar09/Easy-PDF-Handling-Tools.git) |
-| **IoT Visitor Counter** | Arduino, C++, IR Sensors | - | [View Code]( https://github.com/iTushar09/IoT-based-Bidirectional-Visitor-Counter.git) |
+| **Smart Home Automation** | ESP32, PIR Sensor, LCD | - | [View Code](https://github.com/iTushar09/Smart-Home-Project-Motion-Sensor-Relay-and-LCD-Display) |
+| **Telecom Churn Prediction** | Python, XGBoost, Streamlit | [Live Demo](https://customer-churn-prediction-app-by-tushar-chaudhari.streamlit.app/) | [View Code](https://github.com/iTushar09/Customers-Churn-Prediction-App.git) |
+| **Easy PDF Handling Tools** | Python, Streamlit, PyPDF2 | [Live Demo](https://easy-pdf-handling-tools-by-tusharchaudhari.streamlit.app/) | [View Code](https://github.com/iTushar09/Easy-PDF-Handling-Tools.git) |
+| **IoT Visitor Counter** | Arduino, C++, IR Sensors | - | [View Code](https://github.com/iTushar09/IoT-based-Bidirectional-Visitor-Counter.git) |
 
 </div>
-
-### 🏡 Smart Home Automation System
-Built with **ESP32** and **PIR sensors**, enabling automated appliance control with real-time LCD feedback.
-
-### 📊 Telecom Customer Churn Prediction
-Achieved **96% accuracy** using **XGBoost** with **SMOTE** for class imbalance handling and advanced feature engineering.
-
-### 📄 Easy-to-Use PDF Handling Tools
-Reduced manual PDF processing time by **70%** with batch operations for merging, encryption, and extraction.
-
- 
- 
 
 ## 🌐 Let's Connect!
 
@@ -58,12 +46,9 @@ Reduced manual PDF processing time by **70%** with batch operations for merging,
 
 <div align="center">
 
- 
- 
-
 ![Profile Views](https://komarev.com/ghpvc/?username=iTushar09&color=blueviolet&style=for-the-badge&label=Profile+Views)
 
-### *"Innovation happens at the intersection of hardware, software, and imagination"* 🚀
+*"Innovation happens at the intersection of hardware, software, and imagination"* 🚀
 
 **⭐ Star my repositories if you find them useful!**
 
