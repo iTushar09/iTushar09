@@ -67,7 +67,7 @@
 |---------|------------|-----------|------------|
 | **Smart Home Automation** | ESP32, PIR Sensor, LCD | - | [View Code]( https://github.com/iTushar09/Smart-Home-Project-Motion-Sensor-Relay-and-LCD-Display) |
 | **Telecom Churn Prediction** | Python, XGBoost, Streamlit | [Live Demo]( https://customer-churn-prediction-app-by-tushar-chaudhari.streamlit.app/) | [View Code]( https://github.com/iTushar09/Customers-Churn-Prediction-App.git) |
-| **PDF Tools Suite** | Python, Streamlit, PyPDF2 | [Live Demo]( https://easy-pdf-handling-tools-by-tusharchaudhari.streamlit.app/) | [View Code]( https://github.com/iTushar09/Easy-PDF-Handling-Tools.git) |
+| **Easy PDF handling Tools** | Python, Streamlit, PyPDF2 | [Live Demo]( https://easy-pdf-handling-tools-by-tusharchaudhari.streamlit.app/) | [View Code]( https://github.com/iTushar09/Easy-PDF-Handling-Tools.git) |
 | **IoT Visitor Counter** | Arduino, C++, IR Sensors | - | [View Code]( https://github.com/iTushar09/IoT-based-Bidirectional-Visitor-Counter.git) |
 
 </div>
@@ -96,9 +96,9 @@ Reduced manual PDF processing time by **70%** with batch operations for merging,
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://your-portfolio-link)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yourusername)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)]( https://portfolio-tushar-chaudharis-projects-eedc399a.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]( https://www.linkedin.com/in/tusharchaudhari0918/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)]([https://github.com/yourusername](https://github.com/iTushar09))
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tusharchaudhari1809@gmail.com)
 [![Phone](https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+917821848265)
 
