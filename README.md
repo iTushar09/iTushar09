@@ -30,10 +30,10 @@
 
 | Project | Tech Stack | Live Demo | Repository |
 |---------|------------|-----------|------------|
-| **Smart Home Automation** | ESP32, PIR Sensor, LCD | - | [View Code](https://github.com/iTushar09/Smart-Home-Project-Motion-Sensor-Relay-and-LCD-Display) |
+| **Smart Home Automation** | ESP32, PIR Sensor, LCD | [Live Demo](https://wokwi.com/projects/438860110663645185) | [View Code](https://github.com/iTushar09/Smart-Home-Project-Motion-Sensor-Relay-and-LCD-Display) |
 | **Telecom Churn Prediction** | Python, XGBoost, Streamlit | [Live Demo](https://customer-churn-prediction-app-by-tushar-chaudhari.streamlit.app/) | [View Code](https://github.com/iTushar09/Customers-Churn-Prediction-App.git) |
 | **Easy PDF Handling Tools** | Python, Streamlit, PyPDF2 | [Live Demo](https://easy-pdf-handling-tools-by-tusharchaudhari.streamlit.app/) | [View Code](https://github.com/iTushar09/Easy-PDF-Handling-Tools.git) |
-| **IoT Visitor Counter** | Arduino, C++, IR Sensors | - | [View Code](https://github.com/iTushar09/IoT-based-Bidirectional-Visitor-Counter.git) |
+| **IoT Visitor Counter** | Arduino, C++, IR Sensors | [Live Demo](https://wokwi.com/projects/438860110663645185) | [View Code](https://github.com/iTushar09/IoT-based-Bidirectional-Visitor-Counter.git) |
 
 </div>
 
