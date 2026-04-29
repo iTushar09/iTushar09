@@ -37,7 +37,7 @@ I enjoy learning by doing—working close to hardware, writing efficient code, a
 
 | Project | Tech Stack | Live Demo | Repository |
 |-------|-----------|-----------|------------|
-| **Smart Home Automation** | ESP32, PIR Sensor, LCD | [Live](https://wokwi.com/projects/438860110663645185) | [Code](https://github.com/iTushar09/Smart-Home-Project-Motion-Sensor-Relay-and-LCD-Display) |
+| **Smart Home Automation** | ESP32, PIR Sensor, LCD | [Live](https://wokwi.com/projects/438860110663645185) | [Code](https://github.com/iTushar09/Smart-Home-Automation-System) |
 | **Telecom Churn Prediction** | Python, XGBoost, Streamlit | [Live](https://customer-churn-prediction-app-by-tushar-chaudhari.streamlit.app/) | [Code](https://github.com/iTushar09/Customers-Churn-Prediction-App.git) |
 | **Easy PDF Handling Tools** | Python, Streamlit | [Live](https://easy-pdf-handling-tools-by-tusharchaudhari.streamlit.app/) | [Code](https://github.com/iTushar09/Easy-PDF-Handling-Tools.git) |
 | **IoT Visitor Counter** | Arduino, C++, IR Sensors | [Live](https://www.tinkercad.com/things/aEyK2DhUCYr-iot-based-bidirectional-visitor-counterlbar?sharecode=WiFSPDXeyaUoRhwud1rgw_3BQZmOxf6xJ0v3UBx9iDc) | [Code](https://github.com/iTushar09/IoT-based-Bidirectional-Visitor-Counter.git) |
