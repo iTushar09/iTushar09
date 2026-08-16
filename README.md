@@ -1,7 +1,7 @@
 # Hi there! 👋 I'm Tushar Chaudhari
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=700&height=70&duration=5000&lines=Electronics+%26+Telecom+Engineer;Software+%26+Embedded+Systems+Developer;Learning+by+Building+Real+Systems" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=700&height=70&duration=5000&lines=Electronics+%26+Telecommunication +Engineer;Software+%26+Embedded+Systems+Developer;Learning+by+Building+Real+Systems" />
 </div>
 
 ## 🚀 About Me
