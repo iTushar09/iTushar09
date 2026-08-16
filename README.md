@@ -82,15 +82,15 @@ I enjoy building systems where **hardware and software work together**. My inter
 
 ```text
 C++ System Programming
-↓
+        ↓
 Real-Time Operating Systems
-    ↓
+         ↓
 Embedded Firmware Architecture
-    ↓
+         ↓
 STM32 & Microcontroller Systems
-    ↓
+         ↓
 UAV / Drone Systems
-    ↓
+         ↓
 Intelligent Embedded Systems
 ```
 
